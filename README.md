@@ -1,2 +1,2 @@
 # html.css
- Curso do guanabara html + css
+ Curso do Guanabara html5 + css3
