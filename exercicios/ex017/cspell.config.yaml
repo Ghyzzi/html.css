@@ -1,0 +1,63 @@
+version: "0.2"
+ignorePaths: []
+dictionaryDefinitions: []
+dictionaries: []
+words:
+  - accusamus
+  - adipisci
+  - adipisicing
+  - aliquam
+  - amet
+  - aperiam
+  - aspernatur
+  - at
+  - consectetur
+  - debitis
+  - Debitis
+  - dignissimos
+  - distinctio
+  - dolor
+  - doloremque
+  - dolorum
+  - Dolorum
+  - ea
+  - eius
+  - elit
+  - Enim
+  - eveniet
+  - excepturi
+  - exercitationem
+  - facere
+  - Fugiat
+  - Impedit
+  - ipsa
+  - ipsam
+  - ipsum
+  - laudantium
+  - Lorem
+  - mollitia
+  - natus
+  - necessitatibus
+  - Nostrum
+  - odit
+  - officiis
+  - omnis
+  - Pariatur
+  - perspiciatis
+  - placeat
+  - possimus
+  - quibusdam
+  - quisquam
+  - repellat
+  - rerum
+  - saepe
+  - sapiente
+  - sit
+  - soluta
+  - sunt
+  - tempora
+  - totam
+  - Voluptates
+  - voluptatibus
+ignoreWords: []
+import: []

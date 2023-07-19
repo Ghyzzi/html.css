@@ -1,0 +1,53 @@
+version: "0.2"
+ignorePaths: []
+dictionaryDefinitions: []
+dictionaries: []
+words:
+  - accusantium
+  - adipisci
+  - adipisicing
+  - aliquam
+  - amet
+  - architecto
+  - asperiores
+  - assumenda
+  - atque
+  - autem
+  - consectetur
+  - consequatur
+  - corrupti
+  - debitis
+  - Distinctio
+  - dolore
+  - dolorem
+  - eius
+  - elit
+  - eveniet
+  - facere
+  - harum
+  - illum
+  - impedit
+  - incidunt
+  - iste
+  - laborum
+  - magni
+  - maxime
+  - molestiae
+  - natus
+  - odit
+  - officiis
+  - pariatur
+  - perspiciatis
+  - praesentium
+  - Quas
+  - quidem
+  - recusandae
+  - Reiciendis
+  - saepe
+  - temporibus
+  - tenetur
+  - ullam
+  - veniam
+  - voluptatem
+ignoreWords: []
+import: []
